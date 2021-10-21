@@ -1,9 +1,8 @@
-# example-webpack-plugin-github-action
+# example-webpack-plugin-semaphoreci
 
-[![ci](https://github.com/relative-ci/example-webpack-plugin-github-action/workflows/ci/badge.svg)](https://github.com/relative-ci/example-webpack-plugin-github-action/actions?query=workflow%3Aci)
-[![RelativeCI](https://badges.relative-ci.com/badges/7OUGcZsX5e4QBYcecng1?branch=master)](https://app.relative-ci.com/projects/7OUGcZsX5e4QBYcecng1)
+[![RelativeCI](https://badges.relative-ci.com/badges/lNDx9r1Tk28uvN1U1gSW?branch=master)](https://app.relative-ci.com/projects/lNDx9r1Tk28uvN1U1gSW)
 
-> [@relative-ci/agent](https://github.com/relative-ci/agent) webpack plugin setup example for [Github Action](https://github.com/features/actions)
+> [@relative-ci/agent](https://github.com/relative-ci/agent) webpack plugin setup example for [semaphore](https://semaphoreci.com)
 
 
 ## Example app
